@@ -26,7 +26,7 @@ vagrant init # overwrites the Vagrantfile with a brand new, empty file
 
 ### conda env
 
-Using conda to install these packages in win is so complicated and should never be recommended.
+**Using conda to install these packages in win is so complicated and should never be recommended.**
 
 ```bash
 conda create -n sds20
