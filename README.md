@@ -38,7 +38,7 @@ conda search packages
 conda install package=version
 
 conda env create -f sds2020.yml
-conda env export > sds2020.yaml
+conda env export > sds2020.yml
 
 conda install -c conda-forge {name}
 ```
